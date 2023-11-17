@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My School</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+
+    <string name="profile">Profile</string>
+    <string name="message">Message</string>
+    <string name="Notice">Notice</string>
+    <string name="Homework">Homework</string>
+    <string name="Attendance">Attendance</string>
+    <string name="LiveClass">Live Class</string>
+    <string name="photogallery">Photo Gallery</string>
+    <string name="complaintlist">Complaint List</string>
+    <string name="academiccalender">Academic Calender</string>
+    <string name="timetable">Time Table</string>
+    <string name="thought">Thought</string>
+    <string name="circular">Circular</string>
+    <string name="topper">Topper</string>
+    <string name="acheivements">Acheivements</string>
+    <string name="submitmarks">Submit Test Marks</string>
+    <string name="dueslist">Dues List</string>
+    <string name="Studentleave">Student Leave</string>
+    <string name="staffleave">Staff Leave</string>
+    <string name="website">Website</string>
+    <string name="socialmedia">Social Media</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
